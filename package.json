@@ -1,6 +1,6 @@
 {
   "name": "openwhisk-sequence-action",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Default error handling for an openwhisk action",
   "main": "index.js",
   "scripts": {
