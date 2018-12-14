@@ -1,14 +1,11 @@
 {
-  "name": "openwhisk-sequence-action",
-  "version": "0.1.0",
-  "description": "Default error handling for an openwhisk action",
+  "name": "@bamsfaas/sequence-action",
+  "version": "1.0.0",
+  "description": "Default error handling for an openwhisk action with the serverless framework",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Janinf/openwhisk-sequence-action.git"
+    "url": "git+https://github.com/Janinf/bamsfaas-sequence-action.git"
   },
   "keywords": [
     "openwhisk"
@@ -16,7 +13,7 @@
   "author": "Jan Armbruster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Janinf/openwhisk-sequence-action/issues"
+    "url": "https://github.com/Janinf/bamsfaas-sequence-action/issues"
   },
-  "homepage": "https://github.com/Janinf/openwhisk-sequence-action#readme"
+  "homepage": "https://github.com/Janinf/bamsfaas-sequence-action#readme"
 }
